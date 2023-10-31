@@ -1,0 +1,14 @@
+D:\repos\pk22\start\bin\Debug\net7.0\start.exe
+D:\repos\pk22\start\bin\Debug\net7.0\start.deps.json
+D:\repos\pk22\start\bin\Debug\net7.0\start.runtimeconfig.json
+D:\repos\pk22\start\bin\Debug\net7.0\start.dll
+D:\repos\pk22\start\bin\Debug\net7.0\start.pdb
+D:\repos\pk22\start\obj\Debug\net7.0\start.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\pk22\start\obj\Debug\net7.0\start.AssemblyInfoInputs.cache
+D:\repos\pk22\start\obj\Debug\net7.0\start.AssemblyInfo.cs
+D:\repos\pk22\start\obj\Debug\net7.0\start.csproj.CoreCompileInputs.cache
+D:\repos\pk22\start\obj\Debug\net7.0\start.dll
+D:\repos\pk22\start\obj\Debug\net7.0\refint\start.dll
+D:\repos\pk22\start\obj\Debug\net7.0\start.pdb
+D:\repos\pk22\start\obj\Debug\net7.0\start.genruntimeconfig.cache
+D:\repos\pk22\start\obj\Debug\net7.0\ref\start.dll
