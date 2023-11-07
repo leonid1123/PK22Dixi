@@ -9,19 +9,25 @@ using (StreamReader sr = new StreamReader(fileName))
         Console.WriteLine(line);
     }
 }
-class Tovar 
+class Tovar
 {
-    string nazvanie;
+    string nazvanie
+    {
+        get => nazvanie;
+        set => nazvanie = value;
+    }
     string edIzm;
     int czena;
     float kolichestvo;
     string tip;
     float skidka;
     int srokGodnosti;
-    public void PrintInfo(){
-        Console.WriteLine("Название:{0}, {1}руб. за кг, в наличии:{2}{3},тип товара:{4}, величина скидки:{5}, срок годности:{6} дней",nazvanie,czena,kolichestvo,edIzm,tip,skidka,srokGodnosti);
+    public void PrintInfo()
+    {
+        Console.WriteLine("Название:{0}, {1}руб. за кг, в наличии:{2}{3},тип товара:{4}, величина скидки:{5}, срок годности:{6} дней", nazvanie, czena, kolichestvo, edIzm, tip, skidka, srokGodnosti);
     }
-    public Tovar(string _nazvanie,string _edIzm, int _czena, float _kolichestvo, string _tip, float _skidka, int _srokGodnosti){
+    public Tovar(string _nazvanie, string _edIzm, int _czena, float _kolichestvo, string _tip, float _skidka, int _srokGodnosti)
+    {
         nazvanie = _nazvanie;
         edIzm = _edIzm;
         czena = _czena;
