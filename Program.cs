@@ -1,5 +1,6 @@
-﻿Tovar yabloki1 = new Tovar();
-
+﻿Tovar yabloki1 = new Tovar("Антоновка","кг.",150,500,"Фрукты",0,14);
+yabloki1.PrintInfo();
+/*
 string fileName = "yabloki.txt";
 using (StreamReader sr = new StreamReader(fileName))
 {
@@ -9,13 +10,14 @@ using (StreamReader sr = new StreamReader(fileName))
         Console.WriteLine(line);
     }
 }
+*/
 class Tovar
 {
-    string nazvanie
-    {
-        get => nazvanie;
-        set => nazvanie = value;
-    }
+    string nazvanie;
+    //{
+        //get => nazvanie;
+        //set => nazvanie = value;
+    //}
     string edIzm;
     int czena;
     float kolichestvo;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\pk22\\start\\start.csproj": {}
+    "D:\\repos\\pk22\\PK22Dixi\\start.csproj": {}
   },
   "projects": {
-    "D:\\repos\\pk22\\start\\start.csproj": {
+    "D:\\repos\\pk22\\PK22Dixi\\start.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\pk22\\start\\start.csproj",
+        "projectUniqueName": "D:\\repos\\pk22\\PK22Dixi\\start.csproj",
         "projectName": "start",
-        "projectPath": "D:\\repos\\pk22\\start\\start.csproj",
+        "projectPath": "D:\\repos\\pk22\\PK22Dixi\\start.csproj",
         "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\pk22\\start\\obj\\",
+        "outputPath": "D:\\repos\\pk22\\PK22Dixi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "d:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
